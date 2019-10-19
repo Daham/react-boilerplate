@@ -70,3 +70,9 @@ es-doc/*
 
 #intellij idea generated files
 .idea/
+
+
+#Mac OS files
+src/.DS_Store
+src/web-app/.DS_Store
+src/web-app/public/.DS_Store

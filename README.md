@@ -2,6 +2,11 @@
 
 This React boilerplate is a very basic one which helps you do a quick start in React project while using Redux for state management and Saga for effect management.
 
+### System Requirements ###
+
+* Node version
+
+`v8.12.0`
 ### Setup ###
 
 * Clone the project and go inside the project folder.
@@ -46,7 +51,7 @@ This will start dev server on `http://localhost:3000`
 
 ### Tools & Tech ###
 
-* User interface library
+* User Interface Library
 
 <img src="src/web-app/public/images/react-logo-text.png" width="100px" height="auto">
 
@@ -54,4 +59,18 @@ This will start dev server on `http://localhost:3000`
 
 <img src="src/web-app/public/images/redux-logo.png" width="100px" height="auto">
 
+* Module Bundler
 
+<img src="src/web-app/public/images/webpack.png" width="100px" height="auto">
+
+* Transpiler
+
+<img src="src/web-app/public/images/babel.png" width="100px" height="auto">
+
+* Task Runner
+
+<img src="src/web-app/public/images/gulp.png" width="100px" height="auto">
+
+* Web Application is Served by a Minimalistic Express Server
+
+<img src="src/web-app/public/images/express.png" width="100px" height="auto">
