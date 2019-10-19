@@ -48,24 +48,34 @@ This will start dev server on `http://localhost:3000`
 ```sh
  yarn deploy
 ```
+### Complementary ###
+
+In this boilerplate, a basic authentication layout and a sophisticated sidebar are readily available.
+
+* In authentication page provide following as credentials to proceed.
+
+```
+email: admin
+password: admin
+```
 
 ### Tools & Tech ###
 
 * User Interface Library
 
-<img src="src/web-app/public/images/react-logo-text.png" width="100px" height="auto">
+<img src="src/web-app/public/images/react-logo-text.png" width="300px" height="auto">
 
 * State Management
 
-<img src="src/web-app/public/images/redux-logo.png" width="100px" height="auto">
+<img src="src/web-app/public/images/redux-logo.png" width="150px" height="auto">
 
 * Module Bundler
 
-<img src="src/web-app/public/images/webpack.png" width="100px" height="auto">
+<img src="src/web-app/public/images/webpack.png" width="400px" height="auto">
 
 * Transpiler
 
-<img src="src/web-app/public/images/babel.png" width="100px" height="auto">
+<img src="src/web-app/public/images/babel.png" width="300px" height="auto">
 
 * Task Runner
 
@@ -73,4 +83,4 @@ This will start dev server on `http://localhost:3000`
 
 * Web Application is Served by a Minimalistic Express Server
 
-<img src="src/web-app/public/images/express.png" width="100px" height="auto">
+<img src="src/web-app/public/images/express.png" width="300px" height="auto">
