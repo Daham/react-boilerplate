@@ -69,6 +69,10 @@ password: admin
 
 <img src="src/web-app/public/images/redux-logo.png" width="150px" height="auto">
 
+* Effect Management
+
+<img src="src/web-app/public/images/saga.png" width="300px" height="auto">
+
 * Module Bundler
 
 <img src="src/web-app/public/images/webpack.png" width="400px" height="auto">
